@@ -1,0 +1,16 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+
+# Optional: generated chart images
+# Uncomment the next line if you don't want to upload PNG charts
+# *.png
